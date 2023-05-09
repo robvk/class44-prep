@@ -1,0 +1,3 @@
+#monkeys
+![monkey pic](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTOQGx2jU4L4mDCrkwWjqeg6I50JgdsPPWgM9z0nbwUtuTu4bple1U57iLhA3N0ypkNSyKZrIPSp08vh9A)
+###Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians. Traditionally, all animals in the group now known as simians are counted as monkeys except the apes, which constitutes an incomplete paraphyletic grouping; however, in the broader sense based on cladistics, apes (Hominoidea) are also included, making the terms monkeys and simians synonyms in regards to their scope.
